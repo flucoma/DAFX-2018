@@ -2,9 +2,7 @@
 
 This repository contains the code to reproduce the method presented in:
 
-> Roma, G., Green, O. & Tremblay, P. A., Stationary/Transient Audio Separation using Convolutional Autoencoders.
-
-Proceedings of the 21st International Conference on Digital Audio Effects (DAFX 2018)
+> Roma, G., Green, O. & Tremblay, P. A., Stationary/Transient Audio Separation using Convolutional Autoencoders. Proceedings of the 21st International Conference on Digital Audio Effects (DAFX 2018)
 
 
 ### Requiremnets:
